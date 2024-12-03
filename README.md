@@ -6,7 +6,7 @@ Création d'un effet neomorphisme sur un bouton via la propriété box-shadow.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/effet_neomorphisme/
 
 ## Projet développé avec
 
