@@ -1,5 +1,7 @@
 ## EFFET NEOMORPHISME SUR UN BOUTON
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création d'un effet neomorphisme sur un bouton via la propriété box-shadow.
